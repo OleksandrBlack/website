@@ -48,6 +48,7 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
  */
 gulp.task('browser-sync', ['sass', 'concat', 'concat-lp', 'jekyll-build'], function() {
     browserSync.init({
+	notify:false,
         port: 4000,
         ui: {
             port: 4001
