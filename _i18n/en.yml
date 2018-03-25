@@ -40,8 +40,8 @@ homepage:
         - zk-SNARKS - Private transactions with hidden sender/receiver information
         - Tor Integration - Hides internet connection endpoints to prevent censorship
         - Jumblr Integration - Ensure maximum privacy and anonymity with decentralized mixing
-        - dPOW (delayed Proof of Work) leverages the strength of the bitcoin network
-        - SafeNodes, coming soon, base off of Komodo's Notary Node technology
+        - Our plan for an enhanced dPOW (delayed Proof of Work) will leverage the strength of the bitcoin network
+        - SafeNodes, coming soon, will be based off of Komodo's Notary Node technology but feature an number of improvements in method
       - title: Atomic Swaps and Decentralized Exchange
         content:
           - Exchange cryptocurrency anonymously via a decentralized system.  Currently under testing and rapid development / enhancement
