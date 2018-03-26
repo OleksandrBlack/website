@@ -8,7 +8,7 @@ homepage:
     announcement: Rapidly building new Partnerships as SafeCoin Emerges as the most advanced and fair Privacy Cryptocurrency
     announcement-button: Learn More
   about:
-    title: Safe is an advanced form of privacy coin leveraging Z-cash, Komodo, and other technology with new innovations and an improved distribution and emission
+    title: Safe is an advanced form of privacy coin leveraging Z-cash, Komodo, and an improved distribution and emission with ongoing plans for further technology enhancements
     products:
       safecoin: Safety First
       safechat: Coming Soon
@@ -80,7 +80,7 @@ homepage:
             - Lite blockchain options
             - Android Wallet Coming Soon
             - iOS Wallet Coming Soon
-            - Paper Wallet Coming Soon
+            - Paper Wallet has just arrived!
             - SwiftCoin Protocol Basic Implementation
             - Web Wallet coming soon
             - TLS Encryption
@@ -97,7 +97,7 @@ homepage:
             - Evolution of decentralized exchange into Decentralized Market
             - Full Implementation of SwiftCoin Protocol
             - Mobile API for advanced next gen integrations
-        - title: SafeNode Notary Nodes
+        - title: Our SafeNode Plan
           icon: /assets/img/icons/secure.png
           content:
             - SafeNode Notary Node system improvements
@@ -122,7 +122,7 @@ homepage:
 securenodes:
   hero:
     title: SafeCoin is Safe, Secure, Anonymous
-    subtitle: Safe nodes make the SafeCoin network rock solid by leveraging the strength of the bitcoin network!
+    subtitle: Safe nodes will make the SafeCoin network even More secure with much of the technology already in our blockchain
     cta: Instructions to Set Up Safe Nodes Coming
   requirements:
     title: Requirements

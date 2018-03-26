@@ -5,4 +5,4 @@
 - Strong Team & Representation by all as a Powerful Community Coin
 - Wallets and communication clients for International Users, with TOR integration
 - Marketing Globalization - Tailored approach to different markets
-- Safe Nodes provide a resilient, distributed network, leveraging Komodo's Notary Node technology
+- Safe Nodes will provide a resilient, distributed network, leveraging Komodo's Notary Node technology
