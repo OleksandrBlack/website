@@ -56,7 +56,7 @@ homepage:
           - SafeCoin has tor integration, which we are developing and enhancing further!
       - title: Minable
         content:
-          - Delayed Proof-of-work, equihash-based GPU mining with the most generous block reward of any equihash coin, while maintaining limited supply
+          - Proof-of-work, equihash-based GPU mining with the most generous block reward of any equihash coin, while maintaining limited supply
   roadmap:
      events:
       2018:
