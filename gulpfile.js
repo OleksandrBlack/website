@@ -10,7 +10,7 @@ var gulp = require('gulp'),
     autoprefixer = require('gulp-autoprefixer'),
     cp = require('child_process'),
     s3 = require('gulp-s3-upload')(
-      {useIAM:true},  // or {} / null
+     // {useIAM:true},  // or {} / null
       { /* S3 Config */ }
     ),
     browserSync = require('browser-sync').create(),
@@ -33,7 +33,7 @@ var messages = {
  */
 gulp.task('jekyll-build', function (done) {
     return cp.spawn( 'bundle' , ['exec', 'jekyll', 'build'], {stdio: 'inherit'})
-        .on('close', done);
+      .on('close', done);
 });
 
 /**

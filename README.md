@@ -28,7 +28,9 @@ Starting up
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+on live system:
+
+bundle exec jekyll serve
 
 ## Built With
 
