@@ -49,12 +49,12 @@ links:
   youtube: https://www.youtube.com/watch?v=13W3wmOFrAc&feature=youtu.be
   whitepaper: "/assets/Safe%20White%20Paper.pdf"
 wallets:
-  safewalletwin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.013w64/Safewallet-win32-x64-v0.016.zip
-  safewalletmac: https://github.com/Fair-Exchange/safewallet/releases/tag/v0.013mac64
-  safewalletlin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.013lin64/Safewallet-linux-x64-v0.016.tar.gz
-  safecoinwin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.15-Windows/SafecoinWin-v0.16.zip
-  safecoinmac: https://github.com/Fair-Exchange/safecoin/releases/tag/v0.013mac64
-  safecoinlin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.15-Linux/safecoin-v0.16.tar.gz
+  safewalletwin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.016/Safewallet-win32-x64-v0.016.zip
+  safewalletmac: https://github.com/Fair-Exchange/safewallet/releases/download/v0.016/Safewallet-darwin-x64-v0.016.zip
+  safewalletlin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.016/Safewallet-linux-x64-v0.016.tar.gz
+  safecoinwin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.16-Windows/SafecoinWin-v0.16.zip
+  safecoinmac: https://github.com/Fair-Exchange/safecoin/releases/download/v0.016mac64/safecoin-cli-mac-v.0.16.zip
+  safecoinlin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.16-Linux/safecoin-v0.16.tar.gz
 future: true
 show_drafts: true
 lsi: false

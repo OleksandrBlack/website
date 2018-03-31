@@ -1,0 +1,241 @@
+[07:21:19] Using gulpfile ~/website/gulpfile.js
+[07:21:19] Starting 'sass'...
+[07:21:19] Starting 'concat'...
+[07:21:19] Starting 'concat-lp'...
+[07:21:19] Starting 'jekyll-build'...
+[07:21:19] Starting 'watch'...
+[07:21:20] Finished 'watch' after 95 ms
+Configuration file: /home/safecoin/website/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /home/safecoin/website
+       Destination: /home/safecoin/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Building site for default language: "en" to: /home/safecoin/website/_site
+Loading translation from file /home/safecoin/website/_i18n/en.yml
+Build complete
+                    done in 0.565 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[07:21:23] Finished 'jekyll-build' after 3.87 s
+[07:21:24] Finished 'concat-lp' after 4.9 s
+[07:21:24] Finished 'sass' after 4.92 s
+[07:21:29] Finished 'concat' after 9.21 s
+[07:21:29] Starting 'browser-sync'...
+[07:21:29] Finished 'browser-sync' after 9.94 ms
+[07:21:29] Starting 'default'...
+[07:21:29] Finished 'default' after 26 μs
+[Browsersync] Access URLs:
+ ---------------------------------------
+       Local: http://localhost:4000
+    External: http://107.191.36.192:4000
+ ---------------------------------------
+          UI: http://localhost:4001
+ UI External: http://107.191.36.192:4001
+ ---------------------------------------
+[Browsersync] Serving files from: _site
+[Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
+[22:51:20] Using gulpfile ~/website/gulpfile.js
+[22:51:20] Starting 'sass'...
+[22:51:20] Starting 'concat'...
+[22:51:20] Starting 'concat-lp'...
+[22:51:20] Starting 'jekyll-build'...
+[22:51:20] Starting 'watch'...
+[22:51:20] Finished 'watch' after 138 ms
+Configuration file: /home/safecoin/website/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /home/safecoin/website
+       Destination: /home/safecoin/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Building site for default language: "en" to: /home/safecoin/website/_site
+Loading translation from file /home/safecoin/website/_i18n/en.yml
+Build complete
+                    done in 0.627 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[22:51:24] Finished 'jekyll-build' after 4.42 s
+[22:51:25] Finished 'concat-lp' after 5.59 s
+[22:51:25] Finished 'sass' after 5.63 s
+[22:51:31] Finished 'concat' after 11 s
+[22:51:31] Starting 'browser-sync'...
+[22:51:31] Finished 'browser-sync' after 12 ms
+[22:51:31] Starting 'default'...
+[22:51:31] Finished 'default' after 41 μs
+[Browsersync] Access URLs:
+ ---------------------------------------
+       Local: http://localhost:4000
+    External: http://107.191.36.192:4000
+ ---------------------------------------
+          UI: http://localhost:4001
+ UI External: http://107.191.36.192:4001
+ ---------------------------------------
+[Browsersync] Serving files from: _site
+[Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
+[22:56:25] Using gulpfile ~/website/gulpfile.js
+[22:56:25] Starting 'sass'...
+[22:56:25] Starting 'concat'...
+[22:56:25] Starting 'concat-lp'...
+[22:56:25] Starting 'jekyll-build'...
+[22:56:25] Starting 'watch'...
+[22:56:26] Finished 'watch' after 116 ms
+Configuration file: /home/safecoin/website/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /home/safecoin/website
+       Destination: /home/safecoin/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Building site for default language: "en" to: /home/safecoin/website/_site
+Loading translation from file /home/safecoin/website/_i18n/en.yml
+Build complete
+                    done in 1.025 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[22:56:30] Finished 'jekyll-build' after 4.14 s
+[22:56:31] Finished 'concat-lp' after 5.22 s
+[22:56:31] Finished 'sass' after 5.26 s
+[22:56:35] Finished 'concat' after 10 s
+[22:56:35] Starting 'browser-sync'...
+[22:56:35] Finished 'browser-sync' after 14 ms
+[22:56:35] Starting 'default'...
+[22:56:35] Finished 'default' after 24 μs
+[Browsersync] Access URLs:
+ ---------------------------------------
+       Local: http://localhost:4000
+    External: http://107.191.36.192:4000
+ ---------------------------------------
+          UI: http://localhost:4001
+ UI External: http://107.191.36.192:4001
+ ---------------------------------------
+[Browsersync] Serving files from: _site
+[Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
+[23:01:30] Using gulpfile ~/website/gulpfile.js
+[23:01:30] Starting 'sass'...
+[23:01:30] Starting 'concat'...
+[23:01:30] Starting 'concat-lp'...
+[23:01:30] Starting 'jekyll-build'...
+[23:01:30] Starting 'watch'...
+[23:01:30] Finished 'watch' after 137 ms
+Configuration file: /home/safecoin/website/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /home/safecoin/website
+       Destination: /home/safecoin/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Building site for default language: "en" to: /home/safecoin/website/_site
+Loading translation from file /home/safecoin/website/_i18n/en.yml
+Build complete
+                    done in 0.604 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[23:01:34] Finished 'jekyll-build' after 4.21 s
+[23:01:35] Finished 'concat-lp' after 5.32 s
+[23:01:40] Finished 'concat' after 10 s
+[23:01:40] Finished 'sass' after 10 s
+[23:01:40] Starting 'browser-sync'...
+[23:01:40] Finished 'browser-sync' after 9.64 ms
+[23:01:40] Starting 'default'...
+[23:01:40] Finished 'default' after 22 μs
+[Browsersync] Access URLs:
+ ---------------------------------------
+       Local: http://localhost:4000
+    External: http://107.191.36.192:4000
+ ---------------------------------------
+          UI: http://localhost:4001
+ UI External: http://107.191.36.192:4001
+ ---------------------------------------
+[Browsersync] Serving files from: _site
+[Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
+[01:31:21] Using gulpfile ~/website/gulpfile.js
+[01:31:21] Starting 'sass'...
+[01:31:21] Starting 'concat'...
+[01:31:21] Starting 'concat-lp'...
+[01:31:21] Starting 'jekyll-build'...
+[01:31:21] Starting 'watch'...
+[01:31:21] Finished 'watch' after 105 ms
+Configuration file: /home/safecoin/website/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /home/safecoin/website
+       Destination: /home/safecoin/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Building site for default language: "en" to: /home/safecoin/website/_site
+Loading translation from file /home/safecoin/website/_i18n/en.yml
+Build complete
+                    done in 0.866 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[01:31:25] Finished 'jekyll-build' after 3.94 s
+[01:31:25] Finished 'concat-lp' after 4.48 s
+[01:31:26] Finished 'sass' after 5.03 s
+[01:31:30] Finished 'concat' after 9.73 s
+[01:31:30] Starting 'browser-sync'...
+[01:31:30] Finished 'browser-sync' after 14 ms
+[01:31:30] Starting 'default'...
+[01:31:30] Finished 'default' after 35 μs
+[Browsersync] Access URLs:
+ ---------------------------------------
+       Local: http://localhost:4000
+    External: http://107.191.36.192:4000
+ ---------------------------------------
+          UI: http://localhost:4001
+ UI External: http://107.191.36.192:4001
+ ---------------------------------------
+[Browsersync] Serving files from: _site
+[Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
+[03:17:52] Starting 'sass'...
+[Browsersync] 6 files changed (homepage.css.map, homepage.css, landing-page.css.map, landing-page.css, style.css.map, style.css)
+[03:17:54] Finished 'sass' after 2.47 s
+[03:18:31] Using gulpfile ~/website/gulpfile.js
+[03:18:31] Starting 'sass'...
+[03:18:31] Starting 'concat'...
+[03:18:31] Starting 'concat-lp'...
+[03:18:31] Starting 'jekyll-build'...
+[03:18:31] Starting 'watch'...
+[03:18:31] Finished 'watch' after 133 ms
+Configuration file: /home/safecoin/website/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /home/safecoin/website
+       Destination: /home/safecoin/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Building site for default language: "en" to: /home/safecoin/website/_site
+Loading translation from file /home/safecoin/website/_i18n/en.yml
+Build complete
+                    done in 0.642 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[03:18:35] Finished 'jekyll-build' after 4.16 s
+[03:18:36] Finished 'concat-lp' after 5.19 s
+[03:18:41] Finished 'sass' after 10 s
+[03:18:41] Finished 'concat' after 10 s
+[03:18:41] Starting 'browser-sync'...
+[03:18:41] Finished 'browser-sync' after 10 ms
+[03:18:41] Starting 'default'...
+[03:18:41] Finished 'default' after 
+[Browsersync] Access URLs:
+ ---------------------------------------
+       Local: http://localhost:4000
+    External: http://107.191.36.192:4000
+ ---------------------------------------
+          UI: http://localhost:4001
+ UI External: http://107.191.36.192:4001
+ ---------------------------------------
+[Browsersync] Serving files from: _site
+[Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
+[03:32:23] Starting 'jekyll-build'...
+[03:32:24] Starting 'sass'...
+[03:32:24] Starting 'concat'...
+[03:32:24] Starting 'concat-lp'...
+Configuration file: /home/safecoin/website/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /home/safecoin/website
+       Destination: /home/safecoin/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Building site for default language: "en" to: /home/safecoin/website/_site
+Loading translation from file /home/safecoin/website/_i18n/en.yml
+Build complete
+                    done in 0.924 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[03:32:28] Finished 'jekyll-build' after 5.14 s
+[03:32:28] Starting 'jekyll-rebuild'...
+[Browsersync] Reloading Browsers...
+[03:32:28] Finished 'jekyll-rebuild' after 1.23 ms
+[Browsersync] Reloading Browsers...
+[Browsersync] 2 files changed (landing-page.js.map, landing-page.js)
+[03:32:29] Finished 'concat-lp' after 5.58 s
