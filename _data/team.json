@@ -40,23 +40,6 @@
         ]
         },
     {
-      "name": "Advisor - Technology and Business",
-      "slug": "advisor-technology-and-bussiness",
-      "members": [
-          {
-            "name": "Paulo De Matos",
-            "photo": "/assets/img/people/paulo.jpg",
-            "title": "Advisor - Technology and Business",
-            "bio": "Paulo has been active in the technology industry for 24 years, originally as a technical developer and thereafter in a business development roles. In the last 13 years he has accumulated vast international and industry knowledge and experience and has worked within the sales and marketing departments in the U.K., Australia and South Africa. Paulo is is experienced and successful at ensuring that maximum business value is achieved in technology solutions and organizations. He and his team determine this through ongoing research and identifying world trends to anticipate users’ aspirations and industry-specific requirements.",
-            "social": {
-              "twitter": "safecoins",
-              "linkedin": "safecoins",
-              "discord": "safecoin"
-            }
-          }
-        ]
-        },
-    {
       "name": "Technical Advisor",
       "slug": "technical-advisor",
       "members": [

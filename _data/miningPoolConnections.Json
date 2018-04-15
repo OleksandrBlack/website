@@ -41,6 +41,14 @@
   },
   {
       ID = 5,
+      Name = "MiningSpeed",
+      fee = "0.4%!!",
+      port = "2502",
+      uri = "mine-us.miningspeed.com",
+      WorkerPage = ""
+  },
+  {
+      ID = 5,
       Name = "PcMining XYZ EU",
       fee = "1%!!",
       port = "3457",
