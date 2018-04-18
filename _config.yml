@@ -49,12 +49,12 @@ links:
   youtube: https://www.youtube.com/watch?v=13W3wmOFrAc&feature=youtu.be
   whitepaper: "/assets/Safe%20White%20Paper.pdf"
 wallets:
-  safewalletwin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.19/Safewallet-win-x64-v0.19.zip
-  safewalletmac: 
-  safewalletlin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.19/Safewallet-linux-x64-v0.19.tar.gz
-  safecoinwin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.19/SafeCoin-v0.19-Win.zip
-  safecoinmac: 
-  safecoinlin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.19/safecoin-v0.19-linux.tar.gz
+  safewalletwin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.20/Safewallet-win-x64-v0.20.zip
+  safewalletmac: https://github.com/Fair-Exchange/safewallet/releases/download/v0.20/Safewallet-mac-v0.20.zip
+  safewalletlin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.20/Safewallet-linux-x64-v0.20.tar.gz
+  safecoinwin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.20/safecoin-v0.20-windows.zip
+  safecoinmac: https://github.com/Fair-Exchange/safecoin/releases/download/v0.20/safecoin-v0.20-mac.zip
+  safecoinlin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.20/safecoin-v0.20-linux.tar.gz
 future: true
 show_drafts: true
 lsi: false
