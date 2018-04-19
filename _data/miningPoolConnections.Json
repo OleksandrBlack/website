@@ -48,7 +48,7 @@
       WorkerPage = ""
   },
   {
-      ID = 5,
+      ID = 6,
       Name = "PcMining XYZ EU",
       fee = "1%!!",
       port = "3457",
@@ -56,7 +56,7 @@
       WorkerPage = ""
   },
   {
-      ID = 6,
+      ID = 7,
       Name = "PcMining XYZ USA",
       fee = "1%!!",
       port = "3457",
@@ -64,11 +64,19 @@
       WorkerPage = ""
   },
   {
-      ID = 7,
+      ID = 8,
       Name = "PcMining XYZ Asia",
       fee = "1%!!",
       port = "3457",
       uri = "asia.pcmining.xyz",
+      WorkerPage = ""
+  },
+   {
+      ID = 9,
+      Name = "Lucky-Mining(UA)",
+      fee = "0.15%!!",
+      port = "2017",
+      uri = "safe.lucky-mining.com.ua",
       WorkerPage = ""
   }
 ]
